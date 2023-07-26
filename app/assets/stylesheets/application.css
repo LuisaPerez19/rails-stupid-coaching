@@ -13,3 +13,39 @@
  *= require_tree .
  *= require_self
  */
+
+
+#header{
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.container{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.card_question{
+  border-radius: 4px;
+  border: solid transparent;
+  background-color: white;
+}
+
+.card_answer{
+  padding-top: 5px;
+  padding-right: 50px;
+  border-radius: 4px;
+  border: solid transparent;
+  background-color: #feffe0;
+}
+
+.link{
+  padding: 5px;
+}
+
+p{
+  padding-left: 25px;
+}
+
+.form-container{
+  margin-left: 22px;
+}
